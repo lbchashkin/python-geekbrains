@@ -1,0 +1,8 @@
+Python Geekbrains
+8 lessons
+1 lesson: Introduction to Python
+2 lesson: Types
+3 lesson: Functions
+4 lesson: Useful features
+5 lesson: Files
+6, 7, 8 lessons: OOP
